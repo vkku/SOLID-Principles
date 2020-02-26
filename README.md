@@ -14,3 +14,4 @@ Notes about what I observe and reflect
 * Open Closed Principle -> open for change, closed for modification, Add new code for new features don't change old (Interfaces can be used). Switch -> OC Principle breached. Very high level truth to low level. Done in reaction to change(Putting Hooks)
 * DIP -> Depend on abstract methods, low level to depend on high level policy(Plugins)
 * Abstract Classes / Methods, Interfaces for inverting dependencies only
+* Aspect Oriented Programming -> Single Responsibility Principle

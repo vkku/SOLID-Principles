@@ -1,4 +1,6 @@
 # SOLID-Principles
+![image](https://user-images.githubusercontent.com/12431831/75377267-6f8e8900-58f7-11ea-967e-6728bb4fc573.png)
+
 Notes about what I observe and reflect
 * Self Explanatory Code : No Comments
 * Pull, Clean, Push
